@@ -204,7 +204,7 @@ p {
 }
 
 #hero {
-	background-image: url(./img/bgg.png);
+	background-image: url(bgg.png);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
